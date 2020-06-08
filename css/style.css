@@ -128,17 +128,3 @@
     width: 45rem;
     height: 35rem;
 }
-
-
-/********footer***************/
-
-footer input {
-    height: 35px;
-    border-radius: 4px;
-}
-
-footer button {
-    background: red;
-    padding: 5px;
-    border-radius: 4px;
-}
